@@ -1,0 +1,184 @@
+body { 
+    background-color: black;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+img {
+    max-width: 200%;
+    margin: 20px;
+    margin-right: 40px;
+    padding: 14px;
+    display: flex;
+    gap: 40px;
+}
+
+header {
+    max-width: 1350px;
+    background-color:black;
+    font-size: 15px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+header p {
+        margin: 0;
+        font-weight: bold;
+        text-transform: uppercase;
+}
+
+header p a {
+    margin: 20px;
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+
+header nav ul {
+    margin: 20px;
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+header a {
+    text-decoration: none;
+    color: rgb(202, 195, 181) ;
+}
+
+section.info {
+    text-decoration: none;
+    color: rgb(202, 195, 181) ;
+    margin-left: 70px;
+    padding: 5px;
+    font-size: 80px;
+}
+
+section h5 {
+    color: white;
+    font-size: 30px;
+    padding: 5px;
+}
+
+section p {
+    color: white;
+    margin: 140px;
+    font-size: 20px;
+    margin-right: 200px;
+    padding: -15px;
+}
+
+section h6 {
+    color: white;
+    font-size: 40px;
+    padding: 5px;
+}
+
+section h2  {
+    color: white;
+    margin-left: 70px;
+    padding: 50px;
+    font-size: -150px;
+}
+
+section h3  {
+    color: white;
+    margin-left: 120px;
+    font-size: 20px;
+    font-style: normal;
+    justify-content: center;
+}
+
+section h2  {
+  font-size: 50px;
+  margin-right: 20px;
+}
+
+section.card {
+    max-width: 80px;
+    margin: 100px;
+    margin-right: 150px;
+    padding: 14px;
+    display: grid;
+    gap: 70px;
+}
+
+section h4 {
+    color: white;
+    margin: 50px;
+    font-size: 25px;
+    padding: 0px;
+}
+
+footer {
+    max-width: 1400px;
+    background-color:rgb(202, 195, 181);
+    font-size: 17px;
+    margin: 0px;
+    display:flex;
+    justify-content: space-between;
+}
+
+footer p {
+color:black;
+margin: 20px;
+}
+
+.cardopere {
+    max-width: 80px;
+    margin: 100px;
+    margin-right: 150px;
+    padding: 14px;
+    display: grid;
+    gap: 70px;
+}
+
+.cardmostra {
+    max-width: 80px;
+    margin: 90px;
+    margin-right: 150px;
+    padding: 16px;
+    display:flex;
+    gap: 150px;
+}
+
+.cardutili {
+    max-width:370px;
+    margin:65px;
+    margin-right: 200px;
+    padding: 20px;
+    display:grid;
+    gap: 30px;
+  
+}
+
+.cardcullien {
+    max-width: 80px;
+    margin: 90px;
+    margin-right: 150px;
+    padding: 16px;
+    display:flex;
+    gap: 150px;
+}
+
+.cardpaukova {
+    max-width: 80px;
+    margin: 90px;
+    margin-right: 150px;
+    padding: 16px;
+    display:flex;
+    gap: 150px;
+}
+
+.cardblow {
+    max-width: 80px;
+    margin: 90px;
+    margin-right: 150px;
+    padding: 16px;
+    display:flex;
+    gap: 150px;
+}
